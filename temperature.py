@@ -1,4 +1,4 @@
-actual_temperature = 30.2
+actual_temperature = 38.5
 temperature_limit = 35.5
 
 if actual_temperature > temperature_limit:
